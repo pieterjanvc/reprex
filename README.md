@@ -13,7 +13,7 @@ status](https://codecov.io/gh/tidyverse/reprex/branch/master/graph/badge.svg)](h
 ## Overview
 
 Prepare reprexes for posting to [GitHub
-issues](https://guides.github.com/features/issues/),
+issues](https://guides.github.com/features/issues/), [RStudio Community Forum](https://community.rstudio.com/),
 [StackOverflow](https://stackoverflow.com/questions/tagged/r), or [Slack
 snippets](https://get.slack.help/hc/en-us/articles/204145658-Create-a-snippet).
 What is a `reprex`? It’s a **repr**oducible **ex**ample, as coined by
